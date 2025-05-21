@@ -8,4 +8,4 @@ This figure compares the metric (normal distributions) to the ordinal regression
   <img src="figures/main.png" alt="main_results" width="400"/>
 </div>
 
-For detailed methods and results, check out the [report](report.pdf). [Here](big5.R) you find the code.
+For detailed methods and results, check out the [report](report.pdf). [Here](big5.R) you find the code, including the stan models.
